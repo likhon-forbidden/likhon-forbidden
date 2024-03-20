@@ -7,8 +7,6 @@
 
 <p align="center">
     <a href="https://github.com/likhon-forbidden"><img src="https://img.shields.io/github/followers/username?label=Follow&style=social" alt="GitHub"></a>
-    <a href="https://twitter.com/likhonscripts"><img src="https://img.shields.io/twitter/follow/username?label=Follow&style=social" alt="Twitter"></a>
-</p>
 
 ---
 
